@@ -13,6 +13,9 @@
     "storytime-privacy": {
       nav: [],
     },
+    "storytime-terms": {
+      nav: [],
+    },
   };
 
   const config = pages[page] || { nav: [] };
